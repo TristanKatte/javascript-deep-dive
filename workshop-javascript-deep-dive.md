@@ -32,6 +32,7 @@ Topics we encounter when using the debugger from the **Sources** tab in DevTools
 * Extra: modules (scoped, deferred, async)
 
 
+
 ### Practical applications in a SvelteKit Project
 
 Opdracht Refactor your JavaScript:
@@ -43,3 +44,9 @@ Opdracht Refactor your JavaScript:
 
 <!-- references -->
 [10 Interview Questions Every JavaScript Developer Should Know in 2024]: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb
+
+* Module runs code in strict mode
+* State of code met breakpoint in debugger
+* call stack = concurrently model, Javascript is single thread.
+* event loop laat meerdere dingen tegelijk doen.
+* debugger is een functie
