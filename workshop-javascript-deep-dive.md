@@ -50,3 +50,4 @@ Opdracht Refactor your JavaScript:
 * call stack = concurrently model, Javascript is single thread.
 * event loop laat meerdere dingen tegelijk doen.
 * debugger is een functie
+* pseudo-private properties 
